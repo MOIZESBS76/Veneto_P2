@@ -37,7 +37,9 @@ BDD (Behavior Driven Development): Cenários de comportamento definidos para ali
 O projeto utiliza Docker para garantir que o ambiente de execução seja idêntico em qualquer máquina.
 Deploy Contínuo: O sistema está hospedado na plataforma Render, configurado para realizar deploy automático a partir do repositório GitHub utilizando o Dockerfile.
 Execução Local:
+
 docker-compose up --buildA 
+
 API local estará em http://localhost:8000/docs.
 
 👥 Autor:
