@@ -1,4 +1,5 @@
 🍕 Veneto Digital – Sistema de Gestão de Pedidos
+
 O Veneto Digital é uma solução de software desenvolvida para a modernização dos processos de gestão da Pizzaria Veneto. 
 O sistema substitui controles manuais por uma API escalável, seguindo rigorosos padrões de engenharia de software e arquitetura limpa.
 
@@ -33,5 +34,5 @@ Execução Local:
 docker-compose up --buildA 
 API local estará em http://localhost:8000/docs.
 
-👥 Autor
+👥 Autor:
 Moizes Baptista da Silva
